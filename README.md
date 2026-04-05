@@ -43,6 +43,7 @@ It also includes features like category management and recent activity tracking,
 
 ##  Project Structure
 
+```
 project-root/
 │
 ├── config/
@@ -78,7 +79,7 @@ project-root/
 ├── index.js # Entry point
 ├── package.json
 └── package-lock.json
-
+```
 
 # Finance Dashboard Backend — Setup Guide
 
