@@ -1,5 +1,7 @@
 const mongoose = require("mongoose");
 
+// we can say its like profile of user
+
 const financialRecordSchema = new mongoose.Schema({
     user: {
         type: mongoose.Schema.Types.ObjectId,
